@@ -32,8 +32,7 @@ export const Footer = () => {
           A message that says, "Success!" will appear. This means you have successfully added the
           formatted text to your clipboard.
         </li>
-        <li>In WordPress: Paste the formatted text into the "Text" panel.</li>
-        {/* <li>In Storyblok: Paste the formatted text into the "Source code" of a WYSIWYG block.</li> */}
+        <li>In Wordpress: Paste the newly formatted text in the code view. </li>
       </ol>
     </StyledFooter>
   )
