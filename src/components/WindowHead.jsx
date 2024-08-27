@@ -17,7 +17,7 @@ export const WindowHead = () => {
     <StyledWindowHead>
       <span>v3.9</span>
       <span>
-        <a href="https://github.com/odeliy/gdoc2html">github</a>
+        <a href="https://github.com/maesangaline/googledoc-converter">github</a>
       </span>
     </StyledWindowHead>
   )
